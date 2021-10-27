@@ -10,6 +10,16 @@ The stock market is incredibly unpredictable and rapidly changing. This project 
 
 That being said, this project does not claim or seek to generate profit for anyone who uses the code on their own investments, and does not constitute in any way financial advise.
 
+## Tech Stack:
+
+Python 3.8:
+    - Numpy
+    - Pandas
+    - Matplotlib
+    - Plotly
+    - SkLearn
+    - Keras/TensoFlow
+
 ## Dataset:
 
 The big advantage of the cryptocurrency asset class is that most blockchains are public and open source, making it very easy for people to build explorers, portals, and resources that update practically in real time.
